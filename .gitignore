@@ -1,0 +1,17 @@
+# Ignorar entorno virtual
+envRecomendarPeli/
+
+# Ignorar archivos de migración
+*/migrations/
+__pycache__/
+
+# Ignorar archivos de base de datos
+*.sqlite3
+
+# Ignorar archivos relacionados con el sistema operativo
+*.log
+*.pot
+*.pyc
+*.pyo
+*.so
+*.env
